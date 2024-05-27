@@ -1,0 +1,7 @@
+inp · out[0] = 0
+(inp − 1) · out[1] = 0
+(inp − 2) · out[2] = 0
+out[0] + out[1] + out[2] − success = 0
+(success − 1) · success = 0
+
+
